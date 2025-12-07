@@ -15,10 +15,18 @@ biodiversity-intactness-index-phoenix/
 │
 ├── README.md
 ├── bii-phoenix.ipynb
+├── figs
+│    └───phoenix_bii_2020.png
 └── .gitignore
      └───data
          └─── tl_2020_04_cousub
-         
+              ├── tl_2020_04_cousub.cpg
+              ├── tl_2020_04_cousub.dbf
+              ├── tl_2020_04_cousub.prj
+              ├── tl_2020_04_cousub.shp
+              ├── tl_2020_04_cousub.shp.ea.iso.xml
+              ├── tl_2020_04_cousub.shp.ismo.xml
+              └── tl_2020_04_cousub.shx
 ```
 
 ## Data
@@ -36,6 +44,8 @@ In this analysis, two primary datasets are used.
 Microsoft Planetary Computer. (n.d.). Biodiversity Intactness. Retrieved December 5, 2025, from https://planetarycomputer.microsoft.com/dataset/io-biodiversity#overview
 
 US Census Bureau. (2025b, November 26). TIGER/Line shapefiles. Census.gov. https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2020.html#list-tab-790442341
+
+Z. Levitt and J. Eng, “Where America’s developed areas are growing: ‘Way off into the horizon’,” The Washington Post, Aug. 2021, Available: https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/. [Accessed: Nov. 22, 2024]
 
 ## Course Information
 
