@@ -57,6 +57,6 @@ Z. Levitt and J. Eng, “Where America’s developed areas are growing: ‘Way o
 
 - **Co-instructor**: Dr. Annie Adams
 
-Complete description for the this project can be found on the [Biodiversity Intactness Index Change](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/final-project.html).
+Complete description for this project can be found on the [Biodiversity Intactness Index Change](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/final-project.html).
 
 **Author:** Aakriti Poudel
